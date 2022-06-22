@@ -1,6 +1,6 @@
 # NetWhat
 
-### 42 Cursus project focused on acquiring basic knowledge about networks and network protocols. You can find the subjects about this project in [english](Subject/en.subject.pdf) or [spanish](Subject/es.subject.pdf).  
+### 42 Cursus project focused on acquiring basic knowledge about networks and network protocols. You can find the subjects about this project in [English](Subject/en.subject.pdf) or [Spanish](Subject/es.subject.pdf).  
 
 ### Really it was a web test about it, with 30 questions to be answered in less than 10 minutes. You can find a test with similar questions in [here](Test/), if you need info about how it works please review the tester [README](Test/README.md) file.
 
